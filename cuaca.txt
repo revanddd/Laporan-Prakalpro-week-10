@@ -1,0 +1,10 @@
+Cuaca adalah kondisi atmosfer pada suatu lokasi dan waktu tertentu yang mencakup suhu udara, 
+kelembaban, tekanan udara, kecepatan dan arah angin, serta kondisi langit (cerah, mendung, hujan, dll.). 
+Cuaca dipengaruhi oleh berbagai faktor seperti perubahan musiman, pola angin, dan keberadaan sistem cuaca seperti siklon, 
+anti-siklon, dan front.Pemahaman tentang cuaca sangat penting karena cuaca dapat memengaruhi berbagai aktivitas manusia, 
+termasuk pertanian, transportasi, dan kegiatan luar ruangan lainnya. Prediksi cuaca yang akurat sangat diperlukan untuk membantu 
+masyarakat dalam mengambil keputusan yang tepat terkait dengan kegiatan sehari-hari mereka.Selain itu, perubahan iklim global juga
+memengaruhi pola cuaca di berbagai belahan dunia. Peningkatan suhu global dapat menyebabkan perubahan drastis dalam pola cuaca, 
+termasuk peningkatan kejadian cuaca ekstrem seperti badai, banjir, dan kekeringan.Oleh karena itu, pemantauan dan pemahaman 
+yang baik tentang cuaca serta upaya mitigasi terhadap perubahan iklim sangatlah penting untuk menjaga keamanan dan 
+kesejahteraan manusia serta lingkungan hidup.
